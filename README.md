@@ -1,4 +1,5 @@
 🌤️ Application Mobile de Météo
+
 Cette application mobile fournit des informations météorologiques en temps réel pour n'importe quelle ville dans le monde. Grâce à une interface simple et intuitive, les utilisateurs peuvent consulter la température actuelle, l’humidité, le vent, la météo du jour et les prévisions des prochains jours.
 
 📱 Fonctionnalités principales
